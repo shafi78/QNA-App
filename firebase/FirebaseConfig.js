@@ -4,7 +4,7 @@ import 'firebase/compat/firestore';
 
 
 const firebaseConfig = {
-  apiKey: ""
+  apiKey: "",
   authDomain: "",
   projectId: "",
   storageBucket: "",
